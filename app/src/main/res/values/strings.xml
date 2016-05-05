@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AplikacjaTestowaJSONRequest</string>
+    <string name="title_activity_user">UserActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user_home">UserHomeActivity</string>
+    <string-array name="choices">
+        <item>Dziennik Planów</item>
+        <item>Czas Pracy</item>
+        <item>Uprawnienia</item>
+        <item>O mnie</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
